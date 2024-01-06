@@ -1,2 +1,2 @@
-# wordpressPkuginCHATGPTassistant
+# wordpress Plugin CHATGPT assistant
  
